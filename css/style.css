@@ -33,7 +33,7 @@ html{
     background-color: #940253;
     padding: 15px;
     border-radius: 10px;
-    text-align: left;
+    text-align: center;
     z-index: 99;
     display: none;
 }
@@ -194,7 +194,7 @@ html{
 }
 .habilidades .contenido-seccion .fila .col{
     width: 47%;
-    text-align: left;
+    text-align: center;
 }
 .habilidades .contenido-seccion .fila .col .cont-barra{
     display: flex;
